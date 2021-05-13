@@ -35,6 +35,8 @@
 <img align="left" width="40" height="40" src ="https://github.com/gaurav-bag-it07/gaurav-bag-it07/blob/main/assets/adobe-premiere-pro-logo.png?raw=true">
 
 
+<br />
+<br />
 
 
 <!-- <br /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-bag-it07&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-bag-it07" /> </p>
@@ -45,11 +47,13 @@
 
 
 
-<br/><br/> <p><i> <span class="font-weight:normal"> NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. </span></i></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-bag-it07&show_icons=true&locale=en&layout=compact" alt="gaurav-bag-it07" /></p>
+### 📈 My GitHub Stats:
+<p><i> <span class="font-weight:normal"> NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. </span></i></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-bag-it07&show_icons=true&locale=en" alt="gaurav-bag-it07" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-bag-it07&show_icons=true&locale=en" alt="gaurav-bag-it07" />
+<p><br /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-bag-it07&show_icons=true&locale=en&layout=compact" alt="gaurav-bag-it07" /></p>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gaurav-bag-it07.visitor-badge)
