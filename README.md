@@ -1,9 +1,10 @@
+
 ### Hi there, I'm [Gaurav](https://github.com/gaurav-bag-it07) 👋
 
 <!--
 **gaurav-bag-it07/gaurav-bag-it07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![alt text](http://pngimg.com/image/55034)](https://www.linkedin.com/in/gauravb2k/ ) [![alt text](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/gauravb2k/) 
+[![linkedIn_PNG32](https://user-images.githubusercontent.com/56120622/118091628-aa8bb800-b3e8-11eb-9e64-388fab5c4795.png)](https://www.linkedin.com/in/gauravb2k/) [![LeetCode_logo_black](https://user-images.githubusercontent.com/56120622/118091847-f4749e00-b3e8-11eb-8013-0c098417cb53.png)](https://leetcode.com/gauravb2k/) 
 
 A passionate self-taught programmer/developer from India.
 
