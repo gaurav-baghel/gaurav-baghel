@@ -12,7 +12,7 @@
 </p>
 <br/>
 
-<img align= "right" src="https://github.com/gaurav-bag-it07/gaurav-bag-it07/blob/main/assets/IMG_20200321_124912_753_burned.png?raw=true" width="250" height="280" />
+<img align= "right" src="https://github.com/gaurav-bag-it07/gaurav-bag-it07/blob/main/assets/PicsArt_05-13-06.44.23.png?raw=true" width="245" height="280" />
 
 <br />A passionate self-taught programmer/developer from India. 
 <br />🔭 I’m currently working on my project Excel Clone.
