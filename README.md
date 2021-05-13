@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Gaurav](https://github.com/gaurav-bag-it07) 👋
+## Hi there, I'm [Gaurav](https://github.com/gaurav-bag-it07) 👋
 
 <!--<h3><span class="font-weight:normal" align="left">Connect with me:</span></h3>-->
 <p align="left"> 
@@ -11,6 +11,8 @@
 <a href="https://instagram.com/_gauravbaghel" target="blank"><img align="left" width="20" height="20" src="https://github.com/gaurav-bag-it07/gaurav-bag-it07/blob/main/assets/580b57fcd9996e24bc43c521.png?raw=true" alt="_gauravbaghel" /></a>
 </p>
 <br/>
+
+<img align= "right" src="https://github.com/gaurav-bag-it07/gaurav-bag-it07/blob/main/assets/IMG_20200321_124912_753_burned.png?raw=true" width="250" height="280" />
 
 <br />A passionate self-taught programmer/developer from India. 
 <br />🔭 I’m currently working on my project Excel Clone.
