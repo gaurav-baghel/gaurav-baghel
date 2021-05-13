@@ -16,7 +16,7 @@
 <img align= "right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="280" height="300" />
 
 <br />A passionate self-taught programmer/developer from India. 
-<br />🔭 I’m currently working on my project Excel Clone.
+<br />🔭 I’m currently working on my project [Excel Clone](https://github.com/gaurav-bag-it07/Excel-Clone).
 <br />🌱 I’m a Programmer and a Web Development enthusiast.
 <br />📫 How to reach me: gauravbaghel2k@gmail.com
 <br />💬 Ask me about anything [here](https://github.com/gaurav-bag-it07/gaurav-bag-it07/issues)
