@@ -13,7 +13,7 @@
 <br/>
 
 <!--<img align= "right" src="https://github.com/gaurav-bag-it07/gaurav-bag-it07/blob/main/assets/PicsArt_05-13-06.44.23.png?raw=true" width="245" height="280" />-->
-<img align= "right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="300" />
+<img align= "right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="280" height="300" />
 
 <br />A passionate self-taught programmer/developer from India. 
 <br />🔭 I’m currently working on my project Excel Clone.
