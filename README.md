@@ -1,5 +1,5 @@
 
-## Hi there, I'm [Gaurav](https://github.com/gaurav-bag-it07) 👋
+## Hi there, I'm [Gaurav](https://github.com/gaurav-baghel) 👋
 
 <!--<h3><span class="font-weight:normal" align="left">Connect with me:</span></h3>-->
 <p align="left"> 
