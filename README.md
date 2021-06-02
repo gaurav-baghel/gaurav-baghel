@@ -5,7 +5,7 @@
 <p align="left"> 
  <a href="https://linkedin.com/in/gauravb2k" target="blank"><img align="left" width="20" height="20" src="https://github.com/gaurav-baghel/gaurav-baghel/blob/main/assets/linkedIn_PNG32.png?raw=true" alt="gauravb2k" /></a>
  <a href="https://www.leetcode.com/gauravb2k" target="blank"><img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/56120622/118120413-7a0a4500-b40d-11eb-84ed-71a55552817e.png" alt="gauravb2k"/></a>
- <a href="https://www.codechef.com/users/gauravb2k" target="blank"><img align="left" width="20" height="20" src="assets/CodeChef (@codechef).jfif" alt="gauravb2k" /></a>
+ <a href="https://www.codechef.com/users/gauravb2k" target="blank"><img align="left" width="20" height="20" src="https://github.com/gaurav-baghel/gaurav-baghel/blob/main/assets/CodeChef%20(%40codechef).jfif" alt="gauravb2k" /></a>
 <a href="https://twitter.com/gauravbaghel2k" target="blank"><img align="left" width="20" height="20" src="https://github.com/gaurav-baghel/gaurav-baghel/blob/main/assets/icons8-twitter-480.png?raw=true" alt="gauravbaghel2k" /></a>
 <a href="https://www.facebook.com/profile.php?id=100028055211324" target="blank"><img align="left" width="20" height="20" src="https://github.com/gaurav-baghel/gaurav-baghel/blob/main/assets/facebook_logos_PNG19748.png?raw=true" alt="gaurav baghel" /></a>
 <a href="https://instagram.com/_gauravbaghel" target="blank"><img align="left" width="20" height="20" src="https://github.com/gaurav-baghel/gaurav-baghel/blob/main/assets/580b57fcd9996e24bc43c521.png?raw=true" alt="_gauravbaghel" /></a>
