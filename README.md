@@ -3,6 +3,7 @@
 
 <!--<h3><span class="font-weight:normal" align="left">Connect with me:</span></h3>-->
 <p align="left"> 
+ <a href="https://gauravbaghel.me/" target="blank"><img align="left" width="20" height="20" src="https://github.com/gaurav-baghel/gaurav-baghel/blob/main/assets/faviconp.png" alt="gauravbaghel.me" /></a>
  <a href="https://linkedin.com/in/gauravb2k" target="blank"><img align="left" width="20" height="20" src="https://github.com/gaurav-baghel/gaurav-baghel/blob/main/assets/linkedIn_PNG32.png?raw=true" alt="gauravb2k" /></a>
  <a href="https://www.leetcode.com/gauravb2k" target="blank"><img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/56120622/118120413-7a0a4500-b40d-11eb-84ed-71a55552817e.png" alt="gauravb2k"/></a>
  <a href="https://www.codechef.com/users/gauravb2k" target="blank"><img align="left" width="20" height="20" src="https://github.com/gaurav-baghel/gaurav-baghel/blob/main/assets/CodeChef%20(%40codechef).jfif" alt="gauravb2k" /></a>
